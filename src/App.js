@@ -28,7 +28,7 @@ function App() {
     }
     console.log(todos);
     return (
-      <div className="App">
+      <div className="app">
         <h1>TODO React Firestore</h1>
           <FormControl>
               <InputLabel>Escrever uma Tarefa</InputLabel>
